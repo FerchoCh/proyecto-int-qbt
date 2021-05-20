@@ -3,18 +3,18 @@ background-color:#086A87;
 font-family: courier new;
 color: white;
 text-align:center;
-font-size: 85%;
+font-size: 70;
 }
 h2{
-width: 45%; 
+width: 25%; 
 text-align: left;
 background-color:#F5ECCE;
 border: #0B4C5F 8px outset;
 
 } 
-
 p{
 border: white 8px inset;	
+text-align:justify;
 }
 
 h4{
