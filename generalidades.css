@@ -1,21 +1,23 @@
 h1{
-    color: #EE8B46;
-    font-size: 40px;
-    font-family:Fat Inlove - Personal Use;
+    color: AC72D5;
+    font-size: 60px;
+    font-family: cooper black;
     text-transform: uppercase;
+	text-align: center;
 } 
 h2{
-color: #FE8317;
+color: 5C87C8;
 font-size: 30px;
 font-family:AVOCADO creamy;
 }
 h3{
-color: #FE4C17;
+color: 5C87C8;
 font-size:25px;
+font-family:Ink free;
 }
 p{
-color: #54553C;
-font-size:15px;
+color: 54553C;
+font-size:18px;
 font-family:212 Orion Sans;
-;
+text-align: justify;
 }
